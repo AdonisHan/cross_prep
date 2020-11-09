@@ -1,4 +1,6 @@
 # Raw data LIKE THIS
+
+- Let's start the normalization whatever data looks like! 
 ![cross_eng](https://user-images.githubusercontent.com/30692767/98516929-84a61f00-22b0-11eb-8597-34dd2a1191d2.png)
 
 ====================
