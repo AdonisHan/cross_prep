@@ -1,7 +1,6 @@
 
 
 # boxplot raughly
-![노인인구수'_boxplot_wg](https://u
 ![보행노인사고다발지역_boxplot_wg](https://user-images.githubusercontent.com/30692767/98513986-1eb79880-22ac-11eb-935e-181c57c56a4e.png)
 ![보행자작신호기_boxplot_wg](https://user-images.githubusercontent.com/30692767/98513988-1f502f00-22ac-11eb-9e67-c8912dbe2181.png)
 ![사고건수_boxplot_wg](https://user-images.githubusercontent.com/30692767/98513990-1fe8c580-22ac-11eb-98e4-b3ab07c8e1cd.png)
@@ -29,9 +28,15 @@
 ![잔여시간표시기_qqplot](https://user-images.githubusercontent.com/30692767/98516448-dac69280-22af-11eb-8528-e880bb425b04.png)
 # another trying of decimal scaling
 Max(|v'|)<1 
+![dec_code](https://user-images.githubusercontent.com/30692767/98516831-5d4f5200-22b0-11eb-9e2a-ea262a3a5855.png)
+![dec](https://user-images.githubusercontent.com/30692767/98516834-5e807f00-22b0-11eb-9f07-71bffb1df6ff.png)
 
 
 # Corrplot
 - Corrplot
+- Code
+![corr_code](https://user-images.githubusercontent.com/30692767/98516658-1cefd400-22b0-11eb-8c1d-ee8accd0bca4.png)
+
+## Visualization of Corrplot
 ![hdata_상관분석_1](https://user-images.githubusercontent.com/30692767/98516474-e1550a00-22af-11eb-8ae4-18ca3a01f9e0.png)
 ![hdata_상관분석_2](https://user-images.githubusercontent.com/30692767/98516477-e2863700-22af-11eb-9283-5c870a70fa77.png)
