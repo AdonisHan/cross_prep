@@ -3,7 +3,6 @@
 - Let's start the normalization whatever data looks like! 
 ![cross_eng](https://user-images.githubusercontent.com/30692767/98516929-84a61f00-22b0-11eb-8597-34dd2a1191d2.png)
 
-====================
 
 # boxplot raughly
 ![보행노인사고다발지역_boxplot_wg](https://user-images.githubusercontent.com/30692767/98513986-1eb79880-22ac-11eb-935e-181c57c56a4e.png)
@@ -14,16 +13,24 @@
 ![보행등_boxplot_wg](https://user-images.githubusercontent.com/30692767/98513987-1eb79880-22ac-11eb-8b4a-5d988401cbf8.png)
 
 # using min-max scale
-![minmax](https://user-images.githubusercontent.com/30692767/98516287-a81c9a00-22af-11eb-9413-67de3118589a.png)
+
+- Code
 ![minmax3](https://user-images.githubusercontent.com/30692767/98516304-abb02100-22af-11eb-980a-a6b9a74802af.png)
 	- Min-Max Scaling values are in 0(min)~ 1(max) if all data are minimum, it set as 0. in this result, I decided not to using max-max scale
+- Output
+![minmax](https://user-images.githubusercontent.com/30692767/98516287-a81c9a00-22af-11eb-9413-67de3118589a.png)
 # Z-score scaling 
 
-![zscore](https://user-images.githubusercontent.com/30692767/98516289-a81c9a00-22af-11eb-9e20-b33d5187627a.png)
+- Code
 ![zscore_3](https://user-images.githubusercontent.com/30692767/98516303-abb02100-22af-11eb-8b70-11db8df1c14b.png)
 	• Z-score scalings values only print within -1 ~ 1. It found as useful
+- Output
+![zscore](https://user-images.githubusercontent.com/30692767/98516289-a81c9a00-22af-11eb-9e20-b33d5187627a.png)
+
 
 # qqplot by z-score scaling
+- Output
+
 ![노인보호구역_qqplot](https://user-images.githubusercontent.com/30692767/98516437-d7cba200-22af-11eb-98e7-bf82829cb2f7.png)
 ![노인인구수_qqplot](https://user-images.githubusercontent.com/30692767/98516440-d8fccf00-22af-11eb-800c-389bd363e3ca.png)
 ![보행노인사고다발지역_qqplot](https://user-images.githubusercontent.com/30692767/98516441-d9956580-22af-11eb-934e-35997e46476a.png)
@@ -33,7 +40,9 @@
 ![잔여시간표시기_qqplot](https://user-images.githubusercontent.com/30692767/98516448-dac69280-22af-11eb-8528-e880bb425b04.png)
 # another trying of decimal scaling
 Max(|v'|)<1 
+- Code
 ![dec_code](https://user-images.githubusercontent.com/30692767/98516831-5d4f5200-22b0-11eb-9e2a-ea262a3a5855.png)
+- Output
 ![dec](https://user-images.githubusercontent.com/30692767/98516834-5e807f00-22b0-11eb-9f07-71bffb1df6ff.png)
 
 
