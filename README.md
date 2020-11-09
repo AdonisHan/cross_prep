@@ -1,4 +1,7 @@
+# Raw data LIKE THIS
+![cross_eng](https://user-images.githubusercontent.com/30692767/98516929-84a61f00-22b0-11eb-8597-34dd2a1191d2.png)
 
+====================
 
 # boxplot raughly
 ![보행노인사고다발지역_boxplot_wg](https://user-images.githubusercontent.com/30692767/98513986-1eb79880-22ac-11eb-935e-181c57c56a4e.png)
